@@ -34,7 +34,7 @@ Below you will find a list of these features.
 Our team is constantly growing, we only need the best people to make our drainer among the best on the market, If you feel able to contribute to the project, please contact:
 
 
-- ###### [@lemonnaad](https://t.me/lemonnaad) on telegram [![N|Solid](https://avatars.githubusercontent.com/u/84450720?s=15&v=0)](https://t.me/lemonnaad)
+- ###### [@essence_drain](https://t.me/essence_drain) on telegram [![N|Solid](https://avatars.githubusercontent.com/u/84450720?s=15&v=0)](https://t.me/essence_drain)
 
 ## 🤝Socials:
 You can find our social networks here:
