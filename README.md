@@ -21,7 +21,7 @@ Our drainer actually support 2 chains (_for now_).
 - #### BSC ![drawing](https://avatars.githubusercontent.com/u/32770468?s=16&v=0)
 
 We are working on multiple and unique features for the near future of Essence Drainer. 
-Below you will find a list of these features.
+Below, you will find a list of these features.
 ## ⌛Upcoming Features:
 - ###### 🔧Multi-Chain Functionality
 - ###### ✅Red flag bypass
